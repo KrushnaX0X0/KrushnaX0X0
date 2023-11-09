@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **C,HTML,CSS,JAVASCRIPT,GSAP,PHOTO_EDTING,C**
 
-- 📫 How to reach me **sarthaknavale40@gmail.com**
+- 📫 How to reach me **krushnajagtap2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
